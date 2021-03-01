@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Cisco Innovation Labs (Cisco CTO Team), San Jose
+head_description: Cisco Innovation Labs (Cisco CTO Team), San Jose
 
 
 profile:
