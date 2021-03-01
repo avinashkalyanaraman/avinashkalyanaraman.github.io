@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications of Avinash Kalyanaraman -- based on [*folio](https://github.com/bogoli/-folio) design. 
+description:
 years: 
 nav: true
 ---
