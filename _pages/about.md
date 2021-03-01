@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 `Email:` avkalyan at cisco dot com (or) ak3ka at virginia dot edu <br/>
 
-I am a Research Engineer at Cisco Innovation Labs (Cisco CTO Team). I received my PhD under [Prof. Kamin Whitehouse](https://www.cs.virginia.edu/~whitehouse) in [Computer Science](https://www.cs.virginia.edu) at the [University of Virginia](https://www.virginia.edu), Charlottesville. My PhD spanned the areas of Internet of Things, applied machine learning, wireless systems, mobile computing and cyber-physical systems. In particular, I built wireless sensing solutions that enabled smarter environments (buildings, automobiles, cities, etc) to improve the quality of our lives.
+I am a Research Engineer at Cisco Innovation Labs (Cisco CTO Team). I received my PhD under [Prof. Kamin Whitehouse](https://www.cs.virginia.edu/~whitehouse) in [Computer Science](https://www.cs.virginia.edu) at the [University of Virginia](https://www.virginia.edu). My PhD spanned the areas of Internet of Things, applied machine learning, wireless systems, mobile computing and cyber-physical systems. In particular, I built wireless sensing solutions that enabled smarter environments (buildings, automobiles, cities, etc) to improve the quality of our lives.
 
 <br/>
 `My past life:`
