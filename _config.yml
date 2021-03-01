@@ -4,7 +4,6 @@
 
 title: Avinash Kalyanaraman # the website title (if blank, full name will be used instead)
 first_name: Avinash
-#middle_name: R.
 last_name: Kalyanaraman
 email: ak3ka@virginia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -12,6 +11,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+author: Avinash Kalyanaraman
+google-site-verification: google7e82b5b60cbcd6d0.html
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
