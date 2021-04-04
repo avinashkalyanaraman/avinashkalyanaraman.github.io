@@ -14,7 +14,7 @@ footer_text: >
 author: Avinash Kalyanaraman
 google-site-verification: pTLKDRW-k1lRNgX719f3PEjv8NVZxI1X8zjbhtRMNq0
 
-url:  # the base hostname & protocol for your site
+url: https://avinashkalyanaraman.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
@@ -123,6 +123,8 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
   - jekyll-seo-tag
+  - jekyll-sitemap
+
 
   # - bootstrap
   # - material-sass

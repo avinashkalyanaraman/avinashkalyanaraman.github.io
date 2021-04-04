@@ -9,3 +9,4 @@ Gemfile.lock
 vendor
 .github
 .travis.yml
+notes
