@@ -30,4 +30,4 @@ I completed my B.E. from [College of Engineering, Guindy](http://ceg.annauniv.ed
 
 <br/>
 `My other life:`
-I am also an avid cricketer, rock-climber, backpacker and an amateur paraglider pilot. I am aiming to visit all countries in the world someday (current count = [50 countries](assets/img/countries.png)) 
+I am also an avid cricketer, rock-climber, backpacker and an amateur paraglider pilot. I am aiming to visit all countries in the world someday (current count = [55 countries](assets/img/countries.png)) 
