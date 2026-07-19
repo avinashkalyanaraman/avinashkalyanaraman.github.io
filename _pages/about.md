@@ -22,7 +22,10 @@ social: false  # includes social icons at the bottom of the page
 ---
 `Email:` avkalyan at cisco dot com (or) ak3ka at virginia dot edu <br/>
 
-I am a Research Engineer at Cisco Innovation Labs (Cisco CTO Team). I received my PhD under [Prof. Kamin Whitehouse](https://www.cs.virginia.edu/~whitehouse) in [Computer Science](https://www.cs.virginia.edu) at the [University of Virginia](https://www.virginia.edu). My PhD spanned the areas of Internet of Things, applied machine learning, wireless systems, mobile computing and cyber-physical systems. In particular, I built wireless sensing solutions that enabled smarter environments (buildings, automobiles, cities, etc) to improve the quality of our lives.
+I am a Research Engineer at Cisco Innovation Labs (Cisco CTO Team). I received my PhD under [Prof. Kamin
+Whitehouse](https://www.cs.virginia.edu/~whitehouse) in [Computer Science](https://www.cs.virginia.edu) at the
+[University of Virginia](https://www.virginia.edu). My PhD spanned the areas of Applied machine learning, Internet of
+Things, wireless systems, mobile computing and cyber-physical systems. In particular, I built sensing systems that enabled smarter environments (buildings, automobiles, cities, etc) to improve the quality of our lives.
 
 <br/>
 `My past life:`
@@ -30,4 +33,5 @@ I completed my B.E. from [College of Engineering, Guindy](http://ceg.annauniv.ed
 
 <br/>
 `My other life:`
-I am also an avid cricketer, rock-climber, backpacker and an amateur paraglider pilot. I am aiming to visit all countries in the world someday (current count = [55 countries](assets/img/countries.png)) 
+I am also an avid cricketer, rock-climber, backpacker and an amateur paraglider pilot. I am aiming to visit all
+countries in the world someday (current count = [65 countries](assets/img/countries.png)) 
